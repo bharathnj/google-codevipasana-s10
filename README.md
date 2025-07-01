@@ -6,8 +6,7 @@
 ---
 
 ### 📖 Overview
-
-As we approach the milestone season of **Code Vipassana #10**, we aim to personalize the experience and empower developers and practitioners by offering a deep dive into the ocean of agentic app development. There’s a lot in store for you — you wouldn’t want to miss this! 🎉
+In Season of Code Vipassana #10, I’m excited to share the projects I worked on during this deep dive into agentic app development. These projects explore the latest in AI Agents, leveraging cloud-native tools, serverless runtimes, and open source frameworks to build intelligent, multi-agent applications. 🎉
 
 This session focuses on exploring the latest in AI Agents, leveraging cloud-native tools, serverless runtimes, and open source frameworks to build intelligent, multi-agent applications.
 
