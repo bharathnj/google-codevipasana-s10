@@ -14,7 +14,7 @@ This session focuses on exploring the latest in AI Agents, leveraging cloud-nati
 
 ### 📅 Sessions & Highlights
 
-- 💡 Built a single agent application on Google ADK
+- 💡 Built a single agent application on ADK python SDK.
 
 - **🏠 Built an End-to-End Multi-Agent Kitchen Renovation App**  
   Using ADK in Python with AlloyDB data and multiple tools.  
@@ -31,7 +31,7 @@ This session focuses on exploring the latest in AI Agents, leveraging cloud-nati
 
 ---
 
-### 🖼️ Resources & Reference Images
+### 🖼️ Reference Images
 
 ![Session 5](https://github.com/user-attachments/assets/31bcc616-c075-4020-b396-c37c76f596f3)  
 <img width="1686" alt="Session 5 Screenshot" src="https://github.com/user-attachments/assets/572385e4-8612-4cc7-9478-e6c21485934b" />  
