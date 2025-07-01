@@ -14,14 +14,13 @@ This session focuses on exploring the latest in AI Agents, leveraging cloud-nati
 
 ### 📅 Sessions & Highlights
 
-- **💡 Gen AI to Agents: Where do I begin?**  
-  Get started with building a single agent application using the **ADK Python SDK**.  
+- **💡 Built a single agent application on ADK Python SDK 
 
-- **🏠 Build an End-to-End Multi-Agent Kitchen Renovation App**  
+- **🏠 Built an End-to-End Multi-Agent Kitchen Renovation App**  
   Using ADK in Python with AlloyDB data and multiple tools.  
   Augment your multi-agent app with tools from **MCP Toolbox for AlloyDB**.
 
-- **🛠️ Build an Agentic MCP Client Application**  
+- **🛠️ Built an Agentic MCP Client Application**  
   Using **MCP Toolbox for BigQuery**.
 
 - **✈️ Build a Travel Agent Using ADK & MCP Toolbox**  
