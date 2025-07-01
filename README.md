@@ -16,7 +16,6 @@ This session focuses on exploring the latest in AI Agents, leveraging cloud-nati
 
 - **💡 Gen AI to Agents: Where do I begin?**  
   Get started with building a single agent application using the **ADK Python SDK**.  
-  **⏰ Time:** 8:00 pm - 9:30 pm IST
 
 - **🏠 Build an End-to-End Multi-Agent Kitchen Renovation App**  
   Using ADK in Python with AlloyDB data and multiple tools.  
