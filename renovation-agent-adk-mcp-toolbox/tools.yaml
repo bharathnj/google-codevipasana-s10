@@ -1,0 +1,23 @@
+sources:
+    alloydb-orders:
+        kind: "alloydb-postgres"
+        project: "codevipassana10"
+        region: "us-central1"
+        cluster: "vector-cluster"
+        instance: "shoping-cluster-primary"
+        database: "postgres"
+        user: "postgres"
+        password: "alloydb"
+
+tools:
+  get-order-data:
+    kind: postgres-sql
+    source: alloydb-orders
+    description: Get the status of an order based on the material description.
+    parameters:
+      - name: description
+        type: string
+        description: A description of the material to search for its order status.
+    statement: |
+      select order_status from material_order_status where lower(material_name) like lower($1) 
+      LIMIT 1;
